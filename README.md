@@ -2,7 +2,7 @@
 - 👀 I’m passionate about crafting meaningful, user-centered applications that blend creativity and technology.
 - 🌱 I’m currently learning frontend with React and React Native, and backend essentials like Node.js, Firebase, and Express. My focus is on frontend, where I feel most inspired.
 - 💞️ I’m looking to collaborate on projects that prioritize design, user experience, and innovation.
-- 📫 How to reach me www.linkedin.com/in/sofia-navas-frontend
+- 🚀 Visit my Portfolio: [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)](https://sofi-navas-portfoliodev.netlify.app/)
 - ⚡ Fun fact: I’m a marathon runner aiming to complete the six World Marathon Majors. I also love being creative in the kitchen, surprising friends and family with my homemade dishes!
 
 
@@ -13,6 +13,7 @@
   - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
   - ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white)  
 - ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+-  - ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
 
 
 
